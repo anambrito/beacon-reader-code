@@ -1,3 +1,7 @@
+
+
+#DESENVOLVIDO POR ANA MARIA MENDES DE BRITO
+
 import ScanUtility
 import bluetooth._bluetooth as bluez
 import time
